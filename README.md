@@ -1,13 +1,13 @@
 # Projeto Spacefy - Spec Driven Development (SDD)
 Bem-vindo ao repositório principal do projeto. Este repositório contém os entregáveis desenvolvidos em aula, com foco na aplicação prática da metodologia SDD (Spec Driven Development) e outras práticas estudadas ao longo do curso.
 
-#📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 O repositório está organizado em duas pastas principais:
 
 1. spacefy/ (Projeto Real)
 Esta é a pasta que contém o projeto real, oficial e funcional do Spacefy (a "Rede Social de Cifras Sincronizadas"). Toda a aplicação baseada em Next.js, com seus pacotes e configurações verdadeiras, está implementada nela.
 
-#⚠️ IMPORTANTE: Documentação Completa Todas as instruções detalhadas do projeto estão localizadas dentro desta pasta. Acesse os arquivos abaixo para conferir os requisitos da entrega:
+# ⚠️ IMPORTANTE: Documentação Completa Todas as instruções detalhadas do projeto estão localizadas dentro desta pasta. Acesse os arquivos abaixo para conferir os requisitos da entrega:
 
 README.md - Como configurar, rodar dependências e exemplos de uso
 README-Specs.md - Reflexão sobre o uso de Specs, desafios e benefícios
